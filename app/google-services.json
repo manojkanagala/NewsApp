@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063337443753",
+    "firebase_url": "https://manu-news.firebaseio.com",
+    "project_id": "manu-news",
+    "storage_bucket": "manu-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063337443753:android:6f806fccf5639577",
+        "android_client_info": {
+          "package_name": "com.manu.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063337443753-ptqk9019vjq8vbmpo1pcsq6or85l28si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manu.news",
+            "certificate_hash": "3bcee1dd2f0f61d67b7b12af011c01a3bf879a99"
+          }
+        },
+        {
+          "client_id": "1063337443753-gedtbc079tangd2i063l0g742vir5us4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJue1srIr_YVPP8zL1omi7Nz7iel33tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063337443753-gedtbc079tangd2i063l0g742vir5us4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
